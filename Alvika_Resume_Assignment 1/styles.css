@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+    padding: 0;
+    background-color: #c4cacd21;
+}
+
+.left-panel{
+    background-color: #000000e3;
+    color: #ffffffde;
+    padding: 20px;
+    width: 40%;
+}
+
+#profile-pic{
+    border-radius: 50%;
+    width: 55%;
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left-panel-info h2{
+    font-size: 22px;
+}
+
+.left-panel-info ul,p{
+    font-size: 15px;
+}
+
+.line{
+    background-color: #ffffffde;
+    width: 3px;
+}
+
+.right-panel{
+    background-color: #c4cacd15;
+    padding: 20px;
+    color: #000000e3;
+
+}
+
+.right-panel-info ul{
+    font-size: 15px;
+}
+
+.right-panel-info{
+    margin-bottom: 40px;
+}
