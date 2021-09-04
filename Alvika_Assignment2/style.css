@@ -1,7 +1,7 @@
 body{
     color:  #212f3d ;
     font-family: 'Ubuntu', sans-serif;
-    background-color: #fef9e7;
+    background-color: #fcfced;
 }
 
 .navright{
@@ -32,7 +32,7 @@ body{
 
 input{
     border-radius: 30px;
-    background-color:  #eaecee ;
+    background-color:   #f2f4f4  ;
     width: 33%;
     border: none;
     margin: 5px 10px;
@@ -144,7 +144,7 @@ input{
 
 .highlights-box{
     border-radius: 20px;
-    background-color:    #e5e8e8    ;
+    background-color:    #f2f4f4    ;
     margin: 5px 5px 0 5px;
     padding: 15px;
 }
@@ -162,7 +162,7 @@ input{
 }
 
 .calen{
-    background-color: #e5e8e8;
+    background-color: #f2f4f4;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -170,14 +170,10 @@ input{
 }
 
 .rightbox{
-    background-color: white;
     border-radius: 10px;
     padding: 10px;
     margin: 10px 0;
-}
-
-.month{
-    
+    background-color: #fcfced;
 }
 
 .weekdays {
